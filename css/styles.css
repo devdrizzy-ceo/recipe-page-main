@@ -154,7 +154,7 @@ footer{
 }
 
 .attribution{
-    font-size: 1.5em;
+    font-size: 25px;
     margin: auto;
 }
 .attribution a{
@@ -188,12 +188,12 @@ footer{
    }
 
    .attribution {
-        margin-top: 2em;
-        font-size: 2em;
+        margin-top: 20px;
+        font-size: 20px;
         text-align: center;
       }
 
       .attribution a{
-        font-size: 1em;
+        font-size: 20px;
       }
 }
