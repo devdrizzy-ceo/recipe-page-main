@@ -7,6 +7,10 @@
 body{
     padding: 8%  22%;
     background-color: hsl(30, 18%, 87%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:2em;
 
 }
 
@@ -143,7 +147,19 @@ td {
   padding-left: 32px;
 }
 
+footer{
+    
+    color: #150909;
 
+}
+
+.attribution{
+    font-size: 1.5em;
+    margin: auto;
+}
+.attribution a{
+    color: rgb(66, 26, 169);
+}
 
 @media (min-width: 365px) and (max-width: 768px) {
 
@@ -171,4 +187,7 @@ td {
     margin-top: 0px;
    }
 
+   .attribution{
+    font-size: 0.2em;
+   }
 }
