@@ -187,7 +187,13 @@ footer{
     margin-top: 0px;
    }
 
-   .attribution{
-    font-size: 0.6em;
-   }
+   .attribution {
+        margin-top: 2em;
+        font-size: 2em;
+        text-align: center;
+      }
+
+      .attribution a{
+        font-size: 1em;
+      }
 }
